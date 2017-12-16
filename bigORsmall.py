@@ -1,0 +1,3 @@
+def rollnum():
+    import random
+    
